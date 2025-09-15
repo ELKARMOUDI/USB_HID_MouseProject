@@ -7,6 +7,7 @@
 <img src="https://github.com/user-attachments/assets/c8a63e13-402d-4585-8295-395baf2fe55c" width="650" alt="BFEE5AF6-5B92-4060-BFC3-6C82D1C010E6">
 
 
+
 ## Key Features
 - ✅ **Plug-and-play** USB HID mouse compliance  
 - 🔵 Onboard **blue USER button** (PA0) trigger  
