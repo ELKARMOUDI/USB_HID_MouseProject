@@ -4,8 +4,8 @@
 ![USB](https://img.shields.io/badge/USB-HID_Device-2496ED?logo=usb&logoColor=white)
 ![HAL](https://img.shields.io/badge/STM32-HAL_Library-03234B?logo=stmicroelectronics)
 
-<img src="https://github.com/user-attachments/assets/c8a63e13-402d-4585-8295-395baf2fe55c" width="650" alt="BFEE5AF6-5B92-4060-BFC3-6C82D1C010E6">
 
+<img src="https://github.com/user-attachments/assets/c8a63e13-402d-4585-8295-395baf2fe55c" width="650" alt="BFEE5AF6-5B92-4060-BFC3-6C82D1C010E6">
 
 
 ## Key Features
